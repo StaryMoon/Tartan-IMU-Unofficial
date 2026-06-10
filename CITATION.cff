@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the original paper."
+title: "Tartan IMU: A Light Foundation Model for Inertial Positioning in Robotics"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Minghao
+repository-code: "https://github.com/StaryMoon/Tartan-IMU-Unofficial"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Tartan IMU: A Light Foundation Model for Inertial Positioning in Robotics"
+  authors:
+  - family-names: Zhao
+    given-names: Shibo
+  - family-names: Zhou
+    given-names: Sifan
+  - family-names: Blanchard
+    given-names: Raphael
+  - family-names: Qiu
+    given-names: Yuheng
+  - family-names: Wang
+    given-names: Wenshan
+  - family-names: Scherer
+    given-names: Sebastian
+  conference: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  year: 2025
+  url: "https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Tartan_IMU_A_Light_Foundation_Model_for_Inertial_Positioning_in_CVPR_2025_paper.html"
